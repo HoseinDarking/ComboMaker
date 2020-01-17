@@ -1,7 +1,7 @@
-# Jailbreak & Root
-# jilrot.com
-# t.me/jailbreakandroot
-# -- Combo List Maker --
+# Code By mrsploit
+# t.me/mrsploit
+# t.me/zoneh
+# -- Combo List Maker v1 --
 import time, os
 
 os.system("clear")
